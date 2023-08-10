@@ -1,0 +1,95 @@
+.intro{
+    width: 100%;
+    height: auto;
+}
+.intro .title{
+    padding-top: 84px;
+}
+.intro h1{
+    font: normal normal bold 37px/76px Poppins;
+    color: #080808;
+    padding-left: 58px;
+    border-left: 10px solid #519259;
+    margin-left: 120px;
+}
+.intro .style{    
+    width: 120px;
+    height: 170px;
+    background-color: #A7C8AB;
+    border-radius: 0 0 0 180px;
+    position: absolute;
+    right: 0%;
+
+}
+.intro .datas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.intro .left{
+    width: 600px;
+    height: 600px;
+}
+.intro .left .img1{
+    background: url('../assets/Path\ 1379.png');
+    position: absolute;
+    width: 486px;
+    height: 409px;
+    margin-top: 80px;
+    margin-left: 50px;
+    z-index: 1;     
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.intro .left .img2{
+    background: url('../assets/Path\ 1377.png');
+    position: absolute;
+    width: 470px;
+    height: 400px;
+    margin-top: 60px;
+    margin-left: 70px;
+    z-index: 2;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.intro .left .img3{
+    background: url('../assets/Image\ 20.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    z-index: 2;
+    margin-left: 112px;
+    margin-top: 97px;
+}
+.intro .left .img4{
+    background: url('../assets/Image\ 22.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 112px;
+    margin-top: 270px;
+}
+.intro .left .img5{
+    background: url('../assets/Image\ 21.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 307px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 340px;
+    margin-top: 99px;
+}
+.intro .right p{
+    color: #080808;
+    font-size: 1.7em;
+    font-weight: 600;
+    font-family: 'Poppins';
+    width: 769px;
+    margin-right: 100px;
+}
