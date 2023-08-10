@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Unni5445/intern-reactjs/static/css/main.aad604c5.css",
+    "main.js": "/Unni5445/intern-reactjs/static/js/main.cee4dbf1.js",
+    "static/js/787.d6d8f544.chunk.js": "/Unni5445/intern-reactjs/static/js/787.d6d8f544.chunk.js",
+    "static/media/Image 23.png": "/Unni5445/intern-reactjs/static/media/Image 23.a33b03934b57b6ab969d.png",
+    "static/media/Image 21.png": "/Unni5445/intern-reactjs/static/media/Image 21.54310c2d656f0f722e7c.png",
+    "static/media/Image 20.png": "/Unni5445/intern-reactjs/static/media/Image 20.90ea69a93a154a671b28.png",
+    "static/media/Image 22.png": "/Unni5445/intern-reactjs/static/media/Image 22.e0c555a6abd6eada9ec6.png",
+    "static/media/Path 1379.png": "/Unni5445/intern-reactjs/static/media/Path 1379.375c76ac79860555083a.png",
+    "static/media/Path 1377.png": "/Unni5445/intern-reactjs/static/media/Path 1377.419802b240d61baf545b.png",
+    "static/media/logo.png": "/Unni5445/intern-reactjs/static/media/logo.3f7c7c30781d3cf51534.png",
+    "index.html": "/Unni5445/intern-reactjs/index.html",
+    "main.aad604c5.css.map": "/Unni5445/intern-reactjs/static/css/main.aad604c5.css.map",
+    "main.cee4dbf1.js.map": "/Unni5445/intern-reactjs/static/js/main.cee4dbf1.js.map",
+    "787.d6d8f544.chunk.js.map": "/Unni5445/intern-reactjs/static/js/787.d6d8f544.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad604c5.css",
+    "static/js/main.cee4dbf1.js"
+  ]
+}
